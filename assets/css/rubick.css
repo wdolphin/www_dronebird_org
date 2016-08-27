@@ -2409,7 +2409,7 @@ a.carousel-control span.fa {
 .section-header h1 {
   letter-spacing: 0.1em;
   font-weight: 100;
-  font-size: 6em;
+  font-size: 78px;
   font-family: "Slim-Joe";
   text-transform: uppercase;
   text-shadow: -2px 2px 0px rgba(0, 0, 0, 0.3), -2px 4px 2px rgba(0, 0, 0, 0.1);
@@ -3838,4 +3838,13 @@ body.noscroll {
   right: 0;
   width: 100% !important;
   height: 100% !important;
+}
+
+.parallax_2 > img{
+  max-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: relative;
+  z-index: 1;
 }
