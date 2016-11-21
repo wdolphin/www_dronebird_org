@@ -1,4 +1,4 @@
 # www_dronebird_org
-DRONEBIRD公式ウェブサイト（準備中）
+DRONEBIRD公式ウェブサイト
 
 http://dronebird.org
